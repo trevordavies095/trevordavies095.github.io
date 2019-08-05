@@ -15,38 +15,9 @@ In my free time I enjoy listening to music and Esports. In spring 2019 I was a p
 This was a group project for my CSCI-320 (Principles of Database Management) class. We created a [Discogs](https://discogs.com) clone. While it doesn't contain all the functionality of the Discogs website the main idea is still there. For the project we used Java for the backend, and Spark and Freemarker for the web framework. You can view the report and code [here](https://github.com/trevordavies095/Discogs-Clone).
 
 ![NightStand](portfolio/nightstand.png)
-Pebble is a smart watch which is famous for it's Kickstarter beginning. I wanted something clean and simple, nothing flashy. I also wanted to be able to use my watch as a clock next to my bed. This watchface leaves the backlight on when charging so you can easily view it on your night stand! You can view the code [here](https://github.com/trevordavies095/NightStand)
+Pebble is a smart watch which is famous for it's Kickstarter beginning. I wanted something clean and simple, nothing flashy. I also wanted to be able to use my watch as a clock next to my bed. This watchface leaves the backlight on when charging so you can easily view it on your night stand! You can view the code [here](https://github.com/trevordavies095/NightStand).
 
 You can view more of my code on my [GitHub](https://github.com/trevordavies095)!
 
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trevordavies095/trevordavies095/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+Want to get in touch? Feel free to send me an email at [trevordavies095@gmail.com](mailto:trevordavies095@gmail.com)
