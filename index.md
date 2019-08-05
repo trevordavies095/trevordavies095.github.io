@@ -8,7 +8,7 @@ In my free time I enjoy listening to music and Esports. In spring 2019 I was a p
 
 ## Portfolio
 
-![TournaLink]("portfolio/tournalink.png")
+![TournaLink](portfolio/tournalink.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
