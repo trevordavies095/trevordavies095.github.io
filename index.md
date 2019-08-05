@@ -20,4 +20,4 @@ Pebble is a smart watch which is famous for it's Kickstarter beginning. I wanted
 You can view more of my code on my [GitHub](https://github.com/trevordavies095)!
 
 ## Contact
-Want to get in touch? Feel free to send me an email at [trevordavies095@gmail.com](mailto:trevordavies095@gmail.com)
+Want to get in touch? Feel free to send me an email at [trevordavies095@gmail.com](mailto:trevordavies095@gmail.com).
