@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: L Trevor Davies
-description: A short description of your site's purpose
+description: Computer Science at Rochester Institute of Technology
+show_downloads: "false"
+logo: profile.png
