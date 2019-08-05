@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/trevordavies095/trevordavies095/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, my name is Trevor Davies. I am currently finishing my Computer Science B.S. at Rochester Institute of Technology. I'm anticipating finishing my coursework in December 2019!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I became interested in programming at a very young age. When I was a child I would tinker around with my families old Windows 98 machine. I taught myself the basics of Visual Basic .NET my freshman year of high school. In college I mainly work with Java, Python, C# and C.
+
+In my free time I enjoy listening to music and Esports. In spring 2019 I was a player on RIT's Competitive Call of Duty Esports team. At the end of the season I stepped down as a player and I am currently the assistant manager/coach for the team.
 
 ### Markdown
 
