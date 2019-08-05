@@ -6,7 +6,9 @@ I became interested in programming at a very young age. When I was a child I wou
 
 In my free time I enjoy listening to music and Esports. In spring 2019 I was a player on RIT's Competitive Call of Duty Esports team. At the end of the season I stepped down as a player and I am currently the assistant manager/coach for the team.
 
-### Markdown
+## Portfolio
+
+![TournaLink](portfolio/tournalink.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
